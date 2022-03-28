@@ -1,2 +1,2 @@
-# 10.000-Amazon-Product-Data
-This project aims to apply the basic knowledge of data analysts about data cleaning, data transformation, and data visualization.
+# 10.000-Amazon-Products-Dataset
+This dataset is obtained from KAGGLE and contain over 10,000 different products at Amazon and its information.
